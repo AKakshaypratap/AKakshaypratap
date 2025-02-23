@@ -9,7 +9,7 @@ I'm a passionate **Full-Stack Developer** with a keen interest in building impac
 
 ### Frontend:
 - **Languages:** Python, C++, HTML, CSS, JavaScript
-- **Libraries/Frameworks:** React, Bootstrap, Tailwind CSS
+- **Libraries/Frameworks:** React, Bootstrap, Tailwind CSS, next.js, express.js
 
 ### Backend:
 - **Languages:** JavaScript, Node.js, Python
